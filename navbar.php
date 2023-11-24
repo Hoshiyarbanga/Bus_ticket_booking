@@ -25,7 +25,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
                 <a class="nav-link" href="#">Cancel Ticket</a>
                 <a class="nav-link" href="#">Feedback</a>
                 <a class="nav-link" href="#">About Us</a>
-                <a class="nav-link" href="http://localhost/bus_ticket_booking/loginform.php">log in</a>
+                <a class="nav-link" href="http://localhost/bus_ticket_booking/Bus_ticket_booking/loginform.php">log in</a>
               </div>
             </div>
           </div>

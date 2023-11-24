@@ -57,7 +57,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
               </div>
               <input type="submit" value="Log In" class="btn btn-primary btn-block signbtn login-btn">
             </form><hr>
-            <h5>Don't have an account <a href="http://localhost/bus_ticket_booking/registrationform.php">Sign Up</a> </h5>
+            <h5>Don't have an account <a href="http://localhost/bus_ticket_booking/Bus_ticket_booking/">Sign Up</a> </h5>
          
 
           </div>

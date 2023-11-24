@@ -38,7 +38,7 @@
                 <p id="errorPassword" style="color:red;"></p>
               </div>
               <input type="submit" class="btn btn-primary signbtn btn-block"><hr>
-              <h5>Alreday have an account <a href="http://localhost/bus_ticket_booking/loginform.php">Log In</a></h5>
+              <h5>Alreday have an account <a href="http://localhost/bus_ticket_booking/Bus_ticket_booking/loginform.php">Log In</a></h5>
             </form>
           </div>
      </section>

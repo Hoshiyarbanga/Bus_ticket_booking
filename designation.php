@@ -108,7 +108,7 @@
           <td>
             <p>20</p>
           </td>
-          <td><a href="http://localhost/bus_ticket_booking/seetmanagement.php ">select seert</a></td>
+          <td><a href="http://localhost/bus_ticket_booking/Bus_ticket_booking/seetmanagement.php">select seert</a></td>
         </tbody>
       </table>
     </div>
